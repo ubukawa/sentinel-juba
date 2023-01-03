@@ -1,0 +1,1 @@
+gdal2tiles.py -s "EPSG:32636" -z "9-15" --xyz 3_merge/rgb.tif;

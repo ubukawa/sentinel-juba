@@ -1,0 +1,1 @@
+gdal_merge.py -o 3_merge/rgb.tif -co PHOTOMETRIC=RGB -separate 2_8bit/band04.tif 2_8bit/band03.tif 2_8bit/band02.tif; 
